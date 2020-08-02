@@ -4,8 +4,8 @@ Tabi-san goes full C#.
 This repository holds all the stuff you´ll need, including:
 * Learning Material:
     * [Online C# Tutorial](https://www.guru99.com/c-sharp-tutorial.html)
-    * [CSharp Programming (Ebook)](CSharpPogramming.pdf)
-    * [CSharp Programming Extended (Ebook)](CSharpPogramming_Extended.pdf)
+    * [CSharp Programming (Ebook)](CSharpProgramming.pdf)
+    * [CSharp Programming Extended (Ebook)](CSharpProgramming_Extended.pdf)
 * Source code:
     * [/code](/code) source code of your very own programms, but also example code (yet to come)
     * Example programs (yet to come)
