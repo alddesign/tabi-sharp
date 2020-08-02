@@ -20,4 +20,4 @@ We will us this repository for sharing an collaboration.
 Things you can already do on your own:
 * Reading [CSharp Programming (Ebook)](CSharpPogramming.pdf) chapters 1-3.
 * Reading the "Introduction" chapters of [Online C# Tutorial](https://www.guru99.com/c-sharp-tutorial.html) 
-* Get a PC to work with. We will discus the next steps at Cheriis (Installation of the IDE, first steps, roadmap, etc.) 
+* Get a PC to work with. We will discus the next steps at Cheriis (Installation of the IDE, first steps, roadmap, etc.)
